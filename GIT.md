@@ -1,6 +1,6 @@
 # Cosa è Git?
 Git è uno strumento che traccia le modifiche apportate ai file nel tempo. 
-Piuttosto che salvare solo le ultime **versioni dei file, Git tiene traccia delle modifiche apportate nel tempo, 
+Piuttosto che salvare solo le ultime **versioni** dei file, Git tiene traccia delle modifiche apportate nel tempo, 
 consentendo di visualizzare e ripristinare versioni precedenti dei file.
 
 # Come utilizzarlo:
