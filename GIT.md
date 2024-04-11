@@ -87,5 +87,17 @@ Per vedere lo storico
 ```
 git log
 ```
+## Tornare a una verisone precedente
+per tornare a una versione precedente
+
+```
+git reset codice del commit
+```
+## scartare le modifiche
+Per scartare le modifiche
+```
+git checkout nome del file
+```
+
 
 Questi sono solo i fondamenti di Git. Ci sono molte altre funzionalità e concetti più avanzati, ma questi ti daranno una buona base per iniziare.
