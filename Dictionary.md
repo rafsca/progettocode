@@ -2,6 +2,8 @@
 
 Git è uno strumento di versionamento.
 
+### Branch
+Ramificazione del progetto.
 
 # Markdown
 
