@@ -82,5 +82,10 @@ git pull origin nome_del_ramo
 ```
 git push origin nome_del_ramo
 ```
+## Storico
+Per vedere lo storico
+```
+git log
+```
 
 Questi sono solo i fondamenti di Git. Ci sono molte altre funzionalità e concetti più avanzati, ma questi ti daranno una buona base per iniziare.
