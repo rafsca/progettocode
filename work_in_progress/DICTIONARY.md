@@ -26,7 +26,6 @@ Una richiesta per integrare le modifiche apportate in un branch in un altro, spe
 - **Push**: É un'operazione che consente di inviare i commit locali (le modifiche apportate ai file) dal repository locale al repository remoto.
 
 - **Pull**: É un'operazione che consente di aggiornare il repository locale con le modifiche presenti nel repository remoto. Quando altri membri del team effettuano commit e push delle loro modifiche sul repository remoto, è necessario "tirare" o "pullare" queste modifiche nel proprio repository locale per mantenerlo sincronizzato.
-É un linguaggio di formattazione leggero.
 
 
 - **Staging area**: É un'area intermedia in cui si possono preparare i cambiamenti prima di effettuare un commit nel repository Git.
