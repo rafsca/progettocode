@@ -31,7 +31,9 @@ Una richiesta per integrare le modifiche apportate in un branch in un altro, spe
 - **Staging area**: É un'area intermedia in cui si possono preparare i cambiamenti prima di effettuare un commit nel repository Git.
 
 
+- **Vim**: É un editor di testo avanzato e altamente configurabile
 
+---
 
 # Markdown
 è un linguaggio di formattazione leggero che viene utilizzato per scrivere testo formattato per il web.
@@ -56,6 +58,8 @@ Una richiesta per integrare le modifiche apportate in un branch in un altro, spe
 
 - **NextJS**: Framework per ReactJS lato server basato su NodeJS.
 
+---
+
 # Database
 Un database è una raccolta organizzata di dati, solitamente memorizzati in modo strutturato in modo che possano essere facilmente gestiti, accessibili e aggiornati. I database sono ampiamente utilizzati in molti contesti, tra cui applicazioni aziendali, siti web, sistemi di gestione di contenuti, applicazioni mobili e molto altro.
 
@@ -66,11 +70,15 @@ Un database è una raccolta organizzata di dati, solitamente memorizzati in modo
 
 - **Query**: Un'istruzione o un comando utilizzato per recuperare, modificare o aggiornare i dati all'interno di un database.
 
+---
+
 # Principi di sviluppo
 
 - **Agile**: Metodologia di sviluppo software che enfatizza la consegna incrementale, collaborazione, adattabilità, e riflessione continua.
 
 - **Scrum**: Framework di sviluppo Agile che si concentra sulla gestione di progetti complessi. Nell'approccio Scrum, il lavoro è organizzato in cicli chiamati "sprint" di lunghezza fissa (solitamente 2-4 settimane). Durante uno sprint, il team si impegna a consegnare un incremento di prodotto funzionante. Scrum include ruoli chiave come il Product Owner, lo Scrum Master e il Development Team, oltre a eventi regolari come la Sprint Planning, la Daily Scrum, la Sprint Review e la Sprint Retrospective.
+
+---
 
 
 
