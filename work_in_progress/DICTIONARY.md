@@ -70,6 +70,8 @@ Un database è una raccolta organizzata di dati, solitamente memorizzati in modo
 
 - **Query**: Un'istruzione o un comando utilizzato per recuperare, modificare o aggiornare i dati all'interno di un database.
 
+- **CRUD (Create, Read, Update, Delete)**: Le quattro operazioni di base dei dati.
+
 ---
 
 # Principi di sviluppo
