@@ -60,6 +60,8 @@
 
 ```git branch <nome del ramo>```: Crea un nuovo ramo.
 
+```git branch -m <nome del ramo>```: Cambia nome al ramo.
+
 ```git checkout <branch>```: Cambia ramo o recupera file dalla commit storiche.
 
 ```git checkout -b <nome del branch>```: per creare e spostarti direttamente su quel branch.
@@ -88,7 +90,7 @@
 
 ```git pull <nome remoto> <nome ramo>```: Aggiorna il repository locale con le modifiche del repository remoto.
 
-```git push origin --delete <nome del branch remoto>```: se vuoi eliminare il brach remoto.
+```git push origin --delete <nome del branch remoto>```: se vuoi eliminare il branch remoto.
 
 ---
 # Conflict Resolution
