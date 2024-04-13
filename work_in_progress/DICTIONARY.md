@@ -58,6 +58,8 @@ Una richiesta per integrare le modifiche apportate in un branch in un altro, spe
 
 - **NextJS**: Framework per ReactJS lato server basato su NodeJS.
 
+- **Bash**: è un acronimo di "**Bourne-Again Shell**".Si tratta di un tipo di interprete di comandi di shell, una interfaccia a linea di comando per interagire con un sistema operativo Unix o Unix-like.
+
 ---
 
 # Database
