@@ -27,6 +27,8 @@
 
 ```git reset```: Annulla le modifiche locali nel repository.
 
+```git reset HEAD-1 --soft```:tornare a un commit precedente con le modifice evidenziate.
+
 ---
 
 # Commit
