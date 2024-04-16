@@ -99,5 +99,29 @@ Per scartare le modifiche
 git checkout nome del file
 ```
 
+# GIT flow
+Git Flow è un modello di branching e versioning per Git che fornisce una serie di linee guida su come organizzare i rami del repository Git per facilitare lo sviluppo software in team.
+
+Il Git Flow prevede l'utilizzo di diversi tipi di rami per gestire le diverse fasi del ciclo di vita dello sviluppo software. I rami principali in questo modello sono:
+
+1. **Master o Main**: Il ramo master rappresenta il flusso di produzione del software. Ogni commit su questo ramo dovrebbe rappresentare una nuova versione stabile e pronta per il rilascio.
+
+2. **Develop**: Il ramo develop è il punto centrale dello sviluppo. È da questo ramo che vengono creati i rami per le nuove funzionalità e le correzioni di bug. Tutte le modifiche pianificate per il prossimo rilascio sono integrate in questo ramo.
+
+Inoltre, il Git Flow prevede l'uso di altri tipi di rami, tra cui:
+
+1. **Feature branches**: Ramo utilizzato per sviluppare nuove funzionalità. I branch di funzionalità sono creati da e fusi con il ramo develop.
+
+2. **Release branches**: Ramo utilizzato per preparare un nuovo rilascio di software. In questo ramo vengono eseguite attività come il controllo della qualità, la risoluzione di bug e la preparazione della documentazione. Una volta che il rilascio è pronto, viene fuso sia nel ramo master che nel ramo develop.
+
+3. **Hotfix branches**: Ramo utilizzato per correggere bug critici che sono stati scoperti nella produzione. I fix urgenti sono effettuati in un hotfix branch, che è creato dal ramo master e fuso sia nel master che nel ramo develop.
+
+Questo modello fornisce una struttura chiara per lo sviluppo software, facilitando il lavoro in team e la gestione del ciclo di vita del software. Tuttavia, è importante notare che il Git Flow non è l'unico modello di branching e versioning disponibile per Git, e alcune organizzazioni possono adottare varianti o approcci diversi in base alle proprie esigenze.
+
+
+
+
+
+---
 
 Questi sono solo i fondamenti di Git. Ci sono molte altre funzionalità e concetti più avanzati, ma questi ti daranno una buona base per iniziare.
